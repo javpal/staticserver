@@ -1,0 +1,18 @@
+{
+  "name": "staticserver",
+  "version": "1.0.0",
+  "description": "staticserver",
+  "main": "index.js",
+  "scripts": {
+	"start": "node server.js"    
+   },
+  "author": "javapal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.10"
+  }
+}
